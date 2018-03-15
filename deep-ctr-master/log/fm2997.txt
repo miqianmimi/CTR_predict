@@ -1,0 +1,264 @@
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+		Training Err: 	0	0.534156229805	0.0975928022049
+Test Err:0	0.573328436019	0.0486209879622
+		Training Err: 	1	0.552698426078	0.0975929359135
+Test Err:1	0.600465876777	0.0486210914738
+		Training Err: 	2	0.557250568981	0.0975928153608
+Test Err:2	0.604927488152	0.048621005289
+		Training Err: 	3	0.581865000318	0.0975928276955
+Test Err:3	0.605212796209	0.0486210159877
+		Training Err: 	4	0.599321733369	0.0975925940774
+Test Err:4	0.607789099526	0.0486208143429
+		Training Err: 	5	0.611143078545	0.0975927274852
+Test Err:5	0.612517061611	0.0486209334795
+		Training Err: 	6	0.631744401509	0.0975927746165
+Test Err:6	0.616990995261	0.0486209912016
+		Training Err: 	7	0.650012274312	0.0975922582026
+Test Err:7	0.616190995261	0.0486206245776
+		Training Err: 	8	0.650428861491	0.0975924742931
+Test Err:8	0.612550236967	0.0486207248891
+		Training Err: 	9	0.656492815091	0.097592535046
+Test Err:9	0.615374881517	0.0486207455182
+		Training Err: 	10	0.666244385981	0.0975922707819
+Test Err:10	0.610504739336	0.048620590262
+Minimal test error is 0.616990995261 , at EPOCH 6
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+		Training Err: 	0	0.534156229805	0.0975928022049
+Test Err:0	0.573328436019	0.0486209879622
+		Training Err: 	1	0.552698426078	0.0975929359135
+Test Err:1	0.600465876777	0.0486210914738
+		Training Err: 	2	0.557250568981	0.0975928153608
+Test Err:2	0.604927488152	0.048621005289
+		Training Err: 	3	0.581865000318	0.0975928276955
+Test Err:3	0.605212796209	0.0486210159877
+		Training Err: 	4	0.599321733369	0.0975925940774
+Test Err:4	0.607789099526	0.0486208143429
+		Training Err: 	5	0.611143078545	0.0975927274852
+Test Err:5	0.612517061611	0.0486209334795
+		Training Err: 	6	0.631744401509	0.0975927746165
+Test Err:6	0.616990995261	0.0486209912016
+		Training Err: 	7	0.650012274312	0.0975922582026
+Test Err:7	0.616190995261	0.0486206245776
+		Training Err: 	8	0.650428861491	0.0975924742931
+Test Err:8	0.612550236967	0.0486207248891
+		Training Err: 	9	0.656492815091	0.097592535046
+Test Err:9	0.615374881517	0.0486207455182
+		Training Err: 	10	0.666244385981	0.0975922707819
+Test Err:10	0.610504739336	0.048620590262
+Minimal test error is 0.616990995261 , at EPOCH 6
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+		Training Err: 	0	0.534156229805	0.0975928022049
+Test Err:0	0.573328436019	0.0486209879622
+		Training Err: 	1	0.552698426078	0.0975929359135
+Test Err:1	0.600465876777	0.0486210914738
+		Training Err: 	2	0.557250568981	0.0975928153608
+Test Err:2	0.604927488152	0.048621005289
+		Training Err: 	3	0.581865000318	0.0975928276955
+Test Err:3	0.605212796209	0.0486210159877
+		Training Err: 	4	0.599321733369	0.0975925940774
+Test Err:4	0.607789099526	0.0486208143429
+		Training Err: 	5	0.611143078545	0.0975927274852
+Test Err:5	0.612517061611	0.0486209334795
+		Training Err: 	6	0.631744401509	0.0975927746165
+Test Err:6	0.616990995261	0.0486209912016
+		Training Err: 	7	0.650012274312	0.0975922582026
+Test Err:7	0.616190995261	0.0486206245776
+		Training Err: 	8	0.650428861491	0.0975924742931
+Test Err:8	0.612550236967	0.0486207248891
+		Training Err: 	9	0.656492815091	0.097592535046
+Test Err:9	0.615374881517	0.0486207455182
+		Training Err: 	10	0.666244385981	0.0975922707819
+Test Err:10	0.610504739336	0.048620590262
+Minimal test error is 0.616990995261 , at EPOCH 6
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+		Training Err: 	0	0.534156229805	0.0975928022049
+Test Err:0	0.573328436019	0.0486209879622
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+		Training Err: 	0	0.534156229805	0.0975928022049
+Test Err:0	0.573328436019	0.0486209879622
+		Training Err: 	1	0.552698426078	0.0975929359135
+Test Err:1	0.600465876777	0.0486210914738
+		Training Err: 	2	0.557250568981	0.0975928153608
+Test Err:2	0.604927488152	0.048621005289
+		Training Err: 	3	0.581865000318	0.0975928276955
+Test Err:3	0.605212796209	0.0486210159877
+		Training Err: 	4	0.599321733369	0.0975925940774
+Test Err:4	0.607789099526	0.0486208143429
+		Training Err: 	5	0.611143078545	0.0975927274852
+Test Err:5	0.612517061611	0.0486209334795
+		Training Err: 	6	0.631744401509	0.0975927746165
+Test Err:6	0.616990995261	0.0486209912016
+		Training Err: 	7	0.650012274312	0.0975922582026
+Test Err:7	0.616190995261	0.0486206245776
+		Training Err: 	8	0.650428861491	0.0975924742931
+Test Err:8	0.612550236967	0.0486207248891
+		Training Err: 	9	0.656492815091	0.097592535046
+Test Err:9	0.615374881517	0.0486207455182
+		Training Err: 	10	0.666244385981	0.0975922707819
+Test Err:10	0.610504739336	0.048620590262
+Minimal test error is 0.616990995261 , at EPOCH 6
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+ad:2997
+batch_size:100
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+		Training Err: 	0	0.534156229805	0.0975928022049
+Test Err:0	0.573328436019	0.0486209879622
+		Training Err: 	1	0.552698426078	0.0975929359135
+Test Err:1	0.600465876777	0.0486210914738
+		Training Err: 	2	0.557250568981	0.0975928153608
+Test Err:2	0.604927488152	0.048621005289
+		Training Err: 	3	0.581865000318	0.0975928276955
+Test Err:3	0.605212796209	0.0486210159877
+		Training Err: 	4	0.599321733369	0.0975925940774
+Test Err:4	0.607789099526	0.0486208143429
+		Training Err: 	5	0.611143078545	0.0975927274852
+Test Err:5	0.612517061611	0.0486209334795
+		Training Err: 	6	0.631744401509	0.0975927746165
+Test Err:6	0.616990995261	0.0486209912016
+		Training Err: 	7	0.650012274312	0.0975922582026
+Test Err:7	0.616190995261	0.0486206245776
+		Training Err: 	8	0.650428861491	0.0975924742931
+Test Err:8	0.612550236967	0.0486207248891
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+ad:2997
+ad:2997
+batch_size:100
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+ad:2997
+batch_size:100
+ad:2997
+batch_size:100
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+		Training Err: 	0	0.534156229805	0.0975928022049
+Test Err:0	0.573328436019	0.0486209879622
+		Training Err: 	1	0.552698426078	0.0975929359135
+Test Err:1	0.600465876777	0.0486210914738
+		Training Err: 	2	0.557250568981	0.0975928153608
+Test Err:2	0.604927488152	0.048621005289
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+		Training Err: 	0	0.534156229805	0.0975928022049
+Test Err:0	0.573328436019	0.0486209879622
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0
+ad:2997
+batch_size:100
+drop_mlp3fm.py|ad:2997|drop:0.5|b_size:100 | X:177 | Hidden 1:300 | Hidden 2:100 | L_r:0.001 | activation1:tanh | lambda:0.0

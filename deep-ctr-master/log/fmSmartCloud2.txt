@@ -1,0 +1,6 @@
+data_source:SmartCloud2
+This is the parameter setting:
+|dropout:0.5|batch_size:100 | input dimension of X:61 | Hidden layer 1:300 | Hidden layer 2:100 | Learning_rate:0.05 | Activation function 1:tanh | lambda for :0.0
+data_source:SmartCloud2
+This is the parameter setting:
+|dropout:0.5|batch_size:100 | input dimension of X:61 | Hidden layer 1:300 | Hidden layer 2:100 | Learning_rate:0.05 | Activation function 1:tanh | lambda for :0.0
